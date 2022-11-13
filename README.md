@@ -1,2 +1,1 @@
-# CatFight
-Funny cat site
+# yes
